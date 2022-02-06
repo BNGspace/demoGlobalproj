@@ -1,0 +1,95 @@
+2022-01-22 23:11:24,396 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:14:14,964 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:14:45,005 :INFO: :************** Tabs Page is Passed ******
+2022-01-22 23:15:21,135 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:17:42,516 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:19:46,576 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:22:30,240 :ERROR: :************** Tabs Page is is Failed *****
+2022-01-22 23:24:26,425 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:29:13,781 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:31:16,780 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:37:22,351 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:42:36,053 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:45:25,688 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:49:24,005 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:56:24,460 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:56:47,039 :INFO: :************** Tabs Page is Passed ******
+2022-01-22 23:59:09,313 :INFO: :***********Verifying Tabs Page Title *******
+2022-01-22 23:59:55,183 :INFO: :************** Tabs Page is Passed ******
+2022-01-24 18:25:24,874 :INFO: :************** Test_002_Iframe ***********
+2022-01-24 18:25:39,675 :INFO: :************** Successfully opened WebPage *****
+2022-01-24 18:25:39,676 :INFO: :************** Testing Frames Concept ***********
+2022-01-24 18:26:03,488 :INFO: :************** Switched to Frames ***************
+2022-01-24 18:26:20,363 :INFO: :************** Coming out from Frames ************
+2022-01-24 18:26:20,436 :INFO: :************** Successfully tested Frames ********
+2022-01-29 18:10:36,462 :INFO: :************** Test_003_Slides Testase **********
+2022-01-29 18:10:57,254 :INFO: :************** Successfully opened WebPage ******
+2022-01-29 18:10:57,254 :INFO: :************** Testing Slides Concept ***********
+2022-01-29 18:13:00,384 :INFO: :************** Test_003_Slides Testase **********
+2022-01-29 18:13:13,067 :INFO: :************** Successfully opened WebPage ******
+2022-01-29 18:13:13,067 :INFO: :************** Testing Slides Concept ***********
+2022-01-29 18:16:14,333 :INFO: :************** Test_003_Slides Testase **********
+2022-01-29 18:16:29,972 :INFO: :************** Successfully opened WebPage ******
+2022-01-29 18:16:29,972 :INFO: :************** Testing Slides Concept ***********
+2022-01-29 18:23:27,959 :INFO: :************** Test_003_Slides Testase **********
+2022-01-29 18:23:39,713 :INFO: :************** Successfully opened WebPage ******
+2022-01-29 18:23:39,713 :INFO: :************** Testing Slides Concept ***********
+2022-01-29 18:31:10,992 :INFO: :************** Test_003_Slides Testase **********
+2022-01-29 18:31:25,463 :INFO: :************** Successfully opened WebPage ******
+2022-01-29 18:31:25,464 :INFO: :************** Testing Slides Concept ***********
+2022-01-29 18:33:01,404 :INFO: :************** Test_003_Slides Testase **********
+2022-01-29 18:33:11,679 :INFO: :************** Successfully opened WebPage ******
+2022-01-29 18:33:11,679 :INFO: :************** Testing Slides Concept ***********
+2022-01-29 18:33:59,507 :INFO: :************** Switched to Frames ****************
+2022-01-29 18:33:59,507 :INFO: :************** Started Slides Task ***************
+2022-01-29 18:34:09,286 :INFO: :************** Slides Task Completed *************
+2022-02-06 15:53:16,993 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 15:53:38,642 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 15:56:09,138 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 15:56:12,295 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:17:10,115 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:17:31,650 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:18:23,633 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:18:34,188 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:23:38,330 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:23:42,063 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:25:24,138 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:25:27,785 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:28:00,001 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:28:07,006 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:28:53,754 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:28:57,120 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:32:01,356 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:32:08,573 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:33:18,718 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:33:21,829 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:34:44,476 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:34:48,015 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:36:07,193 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:36:10,231 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:45:02,554 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:45:05,594 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:46:54,194 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:47:01,275 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:49:14,514 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:49:21,965 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:54:43,578 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:54:46,803 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 16:56:21,269 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 16:56:24,630 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:03:31,256 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:03:38,403 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:04:50,733 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:04:57,093 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:06:29,271 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:06:41,880 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:09:36,541 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:09:40,277 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:14:39,680 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:14:43,373 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:16:21,023 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:16:23,868 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:17:23,647 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:17:27,385 :INFO: :************** Successfully opened WebPage *****
+2022-02-06 17:20:07,633 :INFO: :************** Test_004_Dialogbox: ***********
+2022-02-06 17:20:11,578 :INFO: :************** Successfully opened WebPage *****
